@@ -1,2 +1,2 @@
 # Daily_Coding
-Building basic applications to enforce my programming skills.
+Building basic applications to improve my programming skills.
